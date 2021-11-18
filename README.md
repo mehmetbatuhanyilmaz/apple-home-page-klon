@@ -2,6 +2,6 @@
 ---
 
 
-<img src="./img/React-Contact-App.png"
-     alt="React-Contact-App icon"
+<img src="./img/1.png"
+     alt=""
      style="float: left; margin-right: 500px;" />
