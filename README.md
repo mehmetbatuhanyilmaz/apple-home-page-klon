@@ -1,7 +1,7 @@
-# App
+# Apple Home Page Klon
 ---
 
 
-<img src="./img/1.png"
+<img src="./imgages/1.png"
      alt=""
      style="float: left; margin-right: 500px;" />
