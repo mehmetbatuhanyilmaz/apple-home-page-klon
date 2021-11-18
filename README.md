@@ -2,6 +2,6 @@
 ---
 
 
-<img src="./imgages/1.png"
+<img src="./images/1.png"
      alt=""
      style="float: left; margin-right: 500px;" />
